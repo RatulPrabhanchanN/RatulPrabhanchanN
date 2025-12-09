@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
-  </tr>>
+  </tr>
 
   <tr>
     <th align="left">Databases & Tools</th>
@@ -130,7 +130,7 @@
     <td>
       🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
     </td>
-  </tr> >
+  </tr>
 </table>
 
 
@@ -188,7 +188,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<! <img src="https://github-profile-trophy.vercel.app/?username=sabariyuhendh&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -205,9 +205,9 @@
 
 ##  Connect with Me  
 <p align="left">
-  <a href="https://github.com/sabariyuhendh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sabariyuhendhran/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sabariyuhendhran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/RatulPrabhanchanN"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ratulprabhanchann/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ratulprabhanchann@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>  
 
 ---
@@ -217,6 +217,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [RatulPrabhanchanN](https://github.com/RatulPrabhanchanN)**
 
 </div>
