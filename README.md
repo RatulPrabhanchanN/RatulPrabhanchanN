@@ -46,7 +46,7 @@
     </td>
   </tr>
 
-  <!<tr>
+  <tr>
     <th align="left">Backend & Frameworks</th>
     <td>
       <!<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -80,7 +80,7 @@
     <th>Link</th>
   </tr>
 
-  <! <tr>
+  <tr>
     <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
     <td>
       A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
@@ -141,13 +141,13 @@
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
 | **LeetCode** | 20+ | - |
-| **CodeChef** | 467 | 1001 |
+| **CodeChef** | 430| 1012 |
 | **CodeForces** | - | - |
 | **GeeksForGeeks** | - | - |
 
-<! ###  **Hackathon Achievements**
-- **1st Place** - CodeSmash (Inter-college DSA Hackathon)
-- 🥈 **Runner-Up** - 24-hour National Hackathon at AMC Engineering College, Bengaluru >
+###  **Hackathon Achievements**
+-
+- 
 
 ---
 
