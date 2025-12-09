@@ -196,11 +196,11 @@
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
+- Github
+- DBMS
 - Advanced Data Structures & Algorithms
 - Problem Solving techniques and optimization
-- Full-Stack Development best practices
+- Full-Stack Development
 
 ---
 
