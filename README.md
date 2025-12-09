@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=00A86B&text=Ratul%20Prabhanchan%20N&textBg=false&animation=fadeIn&desc=Full-stack%20Developer%20|%20DSA%20Enthusiast&descAlign=48&descAlignY=70&descSize=27&section=header&reversal=true&fontColor=FFFFFF" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=speech&height=300&color=00A86B&text=Ratul%20Prabhanchan%20N&textBg=false&animation=fadeIn&desc=Full-stack%20Developer%20|%20DSA%20Enthusiast&descAlign=48&descAlignY=70&descSize=27&section=header&reversal=true&fontColor=FFFFFF" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
